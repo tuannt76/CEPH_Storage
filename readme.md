@@ -1,5 +1,5 @@
 
-# **Ghi chép Zabbix**
+# **Ghi chép Storage**
 
 1.  
 2. 
