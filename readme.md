@@ -89,7 +89,7 @@
 
 [5.8 Cache Logical Volume](./docs/5.8.Cache_Logical_Volume.md)
 
-6.CEPH
+<h1>6.CEPH</h1>
 
 <img src= https://i.imgur.com/LvO0ry2.png align=right width=45%>
 
