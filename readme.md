@@ -68,7 +68,7 @@
 
 [4.5 Chuẩn UEFI](./docs/4.5.Chu%E1%BA%A9n_UEFI.md)
 
-5. LVM
+5.LVM
 
 [5.1 Tổng quan về LVM](./docs/5.1.Overview_LVM.md)
 
@@ -86,7 +86,7 @@
 
 [5.8 Cache Logical Volume](./docs/5.8.Cache_Logical_Volume.md)
 
-6. CEPH
+6.CEPH
 
 [6.1 Tổng quan về Ceph](./docs/6.1.Overview_CEPH.md)
 
@@ -100,7 +100,7 @@
 
 [6.6 Tổng hợp các câu lệnh thường sử dụng trên Ceph](./docs/6.6.command_use_CEPH.md)
 
-7. LAB CEPH 
+7.LAB CEPH 
 
 [7.1 Cài đặt Ceph trên CentOS 7](./docs/7.1.Setup_CEPH_CentOS7.md)
 
@@ -114,7 +114,7 @@
 
 [7.6 Cài đặt Ceph All In One](./docs/7.6.Setup_Ceph__ALL_In_One.md)
 
-8. Nextcloud, Owncloud
+8.Nextcloud, Owncloud
 
 [8.1 Cấu hình Nextcloud trên CentOS 7](./docs/8.1.C%E1%BA%A5u_h%C3%ACnh_NextCloud_CentOS7.md)
 
