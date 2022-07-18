@@ -3,7 +3,6 @@
 
 1.File system
 
-test
 
 <img src= https://i.imgur.com/LvO0ry2.png align=right width=45%>
 
