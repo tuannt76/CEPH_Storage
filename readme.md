@@ -49,7 +49,7 @@
 
 [2.7 Cấu trúc, phân vùng Disk](./docs/2.7.C%E1%BA%A5u_tr%C3%BAc_ph%C3%A2n_v%C3%B9ng_DISK.md)
 
-3. Raid
+3.Raid
 
 [3.1 Tổng quan Raid vs Raid 0,1,5,6,10](./docs/3.1.T%C3%ACm_hi%E1%BB%83u_Raid.md)
 
