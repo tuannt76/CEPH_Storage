@@ -4,7 +4,7 @@
 1.File system
 
 
-<img src= https://i.imgur.com/LvO0ry2.png align=right width=45%>
+
 
 [1.1 Tổng quan File system](./docs/1.1_Overview_File_System.md)
 
@@ -90,6 +90,8 @@
 [5.8 Cache Logical Volume](./docs/5.8.Cache_Logical_Volume.md)
 
 6.CEPH
+
+<img src= https://i.imgur.com/LvO0ry2.png align=right width=45%>
 
 [6.1 Tổng quan về Ceph](./docs/6.1.Overview_CEPH.md)
 
