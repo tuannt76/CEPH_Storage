@@ -3,6 +3,8 @@
 
 1.File system
 
+<img src= https://i.imgur.com/LvO0ry2.png align=right width=45%>
+
 [1.1 Tổng quan File system](./docs/1.1_Overview_File_System.md)
 
 [1.2 Hệ thống tập tin trong Linux](./docs/1.2.System_Linux.md)
