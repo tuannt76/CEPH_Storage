@@ -16,29 +16,29 @@
 
 - [1.1.4 Các loại filesystem trong Windows](./docs/1.1.4.Type_System_Micosoft_windows.md)
 
-[1.4 Cấu trúc file system](./docs/1.4.C%E1%BA%A5u_tr%C3%BAc_file_system.md)
+[1.2 Cấu trúc file system](./docs/1.4.C%E1%BA%A5u_tr%C3%BAc_file_system.md)
 
-[1.5 FUSE](./docs/1.5.FUSE.md)
+[1.3 FUSE](./docs/1.5.FUSE.md)
 
-[1.6 Truy cập FileSystem](./docs/1.6.Truy_c%E1%BA%ADp_FileSystem.md)
+[1.4 Truy cập FileSystem](./docs/1.6.Truy_c%E1%BA%ADp_FileSystem.md)
 
-[1.7 Cấu trúc, tổ chức thư mục](./docs/1.7.C%E1%BA%A5u%20tr%C3%BAc_t%E1%BB%95_ch%E1%BB%A9c_th%C6%B0_m%E1%BB%A5c.md)
+[1.5 Cấu trúc, tổ chức thư mục](./docs/1.7.C%E1%BA%A5u%20tr%C3%BAc_t%E1%BB%95_ch%E1%BB%A9c_th%C6%B0_m%E1%BB%A5c.md)
 
-[1.8 Quản lý quyền truy nhập](./docs/1.8.Qu%E1%BA%A3n_l%C3%BD_quy%E1%BB%81n_truy_nh%E1%BA%ADp.md)
+[1.6 Quản lý quyền truy nhập](./docs/1.8.Qu%E1%BA%A3n_l%C3%BD_quy%E1%BB%81n_truy_nh%E1%BA%ADp.md)
 
-[1.9 Cấu trúc File system](./docs/1.9.C%E1%BA%A5u_tr%C3%BAc_File_system.md)
+[1.7 Cấu trúc File system](./docs/1.9.C%E1%BA%A5u_tr%C3%BAc_File_system.md)
 
-[1.10 Thực thi File System](./docs/1.10.Th%E1%BB%B1c_thi_File_System.md)
+[1.8 Thực thi File System](./docs/1.10.Th%E1%BB%B1c_thi_File_System.md)
 
-[1.11 Cấp phát bộ nhớ system](./docs/1.11.C%E1%BA%A5p_ph%C3%A1t_b%E1%BB%99_nh%E1%BB%9B_system.md)
+[1.9 Cấp phát bộ nhớ system](./docs/1.11.C%E1%BA%A5p_ph%C3%A1t_b%E1%BB%99_nh%E1%BB%9B_system.md)
 
-[1.12 Quản ý bộ nhớ trống system](./docs/1.12.Qu%E1%BA%A3n_%C3%BD_b%E1%BB%99_nh%E1%BB%9B_tr%E1%BB%91ng_system.md)
+[1.10 Quản ý bộ nhớ trống system](./docs/1.12.Qu%E1%BA%A3n_%C3%BD_b%E1%BB%99_nh%E1%BB%9B_tr%E1%BB%91ng_system.md)
 
-[1.13 Nâng cao hiệu năng](./docs/1.13.N%C3%A2ng_cao_hi%E1%BB%87u_n%C4%83ng.md)
+[1.11 Nâng cao hiệu năng](./docs/1.13.N%C3%A2ng_cao_hi%E1%BB%87u_n%C4%83ng.md)
 
-[1.14 Khội phục FS](./docs/1.14.Kh%C3%B4i_ph%E1%BB%A5c_FS.md)
+[1.12 Khội phục FS](./docs/1.14.Kh%C3%B4i_ph%E1%BB%A5c_FS.md)
 
-[1.15 IO hệ thống IO Hardware,Buffer and Cache](./docs/1.15_IO_h%E1%BB%87_th%E1%BB%91ng_IO_Hardware_Buffer_and_Cache.md)
+[1.13 IO hệ thống IO Hardware,Buffer and Cache](./docs/1.15_IO_h%E1%BB%87_th%E1%BB%91ng_IO_Hardware_Buffer_and_Cache.md)
 
 2.Tổng quan về các loại ổ cứng
 
