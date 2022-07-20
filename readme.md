@@ -12,7 +12,7 @@
 
 [1.3 Các loại filesystem trong Linux](./docs/1.3.Type_filesystem_linux.md)
 
-[1.4 Cấu trúc file system](./docs/1.4%20C%E1%BA%A5u%20tr%C3%BAc%20file%20system.md)
+[1.4 Cấu trúc file system](./docs/1.4.C%E1%BA%A5u_tr%C3%BAc_file_system.md)
 
 [1.5 FUSE](./docs/1.5.FUSE.md)
 
