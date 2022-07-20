@@ -8,9 +8,13 @@
 
 [1.1 Tổng quan File system](./docs/1.1_Overview_File_System.md)
 
-[1.2 Hệ thống tập tin trong Linux](./docs/1.2.System_Linux.md)
+[1.1.1 Hệ thống tập tin trong Linux 1](./docs/1.1.1.System_Linux_1.md)
 
-[1.3 Các loại filesystem trong Linux](./docs/1.3.Type_filesystem_linux.md)
+[1.1.2 Hệ thống tập tin trong linux 2](./docs/1.1.2.System_Linux_2.md)
+
+[1.1.3 Các loại filesystem trong Linux](./docs/1.1.3.Type_filesystem_linux.md)
+
+[1.1.4 Các loại filesystem trong Windows](./docs/1.1.4.Type_System_Micosoft_windows.md)
 
 [1.4 Cấu trúc file system](./docs/1.4.C%E1%BA%A5u_tr%C3%BAc_file_system.md)
 
