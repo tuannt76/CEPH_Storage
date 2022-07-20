@@ -20,7 +20,7 @@
 
 [1.3 FUSE](./docs/1.3.FUSE.md)
 
-[1.4 Truy cập FileSystem](./docs/1.4.Truy_c%E1%BA%ADp_FileSystem.md
+[1.4 Truy cập FileSystem](./docs/1.4.Truy_c%E1%BA%ADp_FileSystem.md)
 
 [1.5 Cấu trúc, tổ chức thư mục](./docs/1.5.C%E1%BA%A5u%20tr%C3%BAc_t%E1%BB%95_ch%E1%BB%A9c_th%C6%B0_m%E1%BB%A5c.md)
 
